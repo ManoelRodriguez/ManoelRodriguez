@@ -40,7 +40,7 @@ desenvolvimento de soluções completas de software.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="left"
     alt="React"
     title="React" 
     width="30px" 

@@ -83,6 +83,13 @@ desenvolvimento de soluções completas de software.
 <br/>
 <br/>
 
+### 🎓 Formação
+
+- Análise e Desenvolvimento de Sistemas (ADS)
+
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>

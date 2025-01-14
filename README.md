@@ -13,7 +13,7 @@ desenvolvimento de soluções completas de software.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img 
     align="left" 

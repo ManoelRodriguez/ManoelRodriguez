@@ -89,7 +89,7 @@ desenvolvimento de soluções completas de software.
 
 - Análise e Desenvolvimento de Sistemas (ADS)
   
-<br/>
+---
 
 ### 📊 Estatísticas
 

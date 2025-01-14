@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Manoel Rodriguez
+# 👨‍💻 Manoel Rodriguez
 
 **`Desenvolvedor Front-end`**
 

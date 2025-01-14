@@ -90,7 +90,7 @@ desenvolvimento de soluções completas de software.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 1px;" 
     src="https://github-readme-stats.vercel.app/api?username=manoelrodriguez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 

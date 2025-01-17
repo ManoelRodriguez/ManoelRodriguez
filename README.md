@@ -7,7 +7,7 @@ de dados e infraestrutura de tecnologia. Atualmente, estou aprofundando
 meus conhecimentos em ReactJS, buscando me especializar na criação de
 interfaces interativas e otimizadas. Atuei no Tribunal de Justiça de São Paulo
 (TJSP), contribuindo para a melhoria de processos tecnológicos no maior
-órgão judiciário do país. Sou graduado em Análise eDesenvolvimento de
+órgão judiciário do país. Sou graduado em Análise e Desenvolvimento de
 Sistemas e estou focado em expandir minhas competências no
 desenvolvimento de soluções completas de software.
 

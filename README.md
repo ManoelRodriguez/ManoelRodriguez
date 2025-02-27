@@ -2,14 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Desenvolvedor front-end com experiências em projetos reais em React, bancos
-de dados e infraestrutura de tecnologia. Atualmente, estou aprofundando
-meus conhecimentos em ReactJS, buscando me especializar na criação de
-interfaces interativas e otimizadas. Atuei no Tribunal de Justiça de São Paulo
-(TJSP), contribuindo para a melhoria de processos tecnológicos no maior
-órgão judiciário do país. Sou graduado em Análise e Desenvolvimento de
-Sistemas e estou focado em expandir minhas competências no
-desenvolvimento de soluções completas de software.
+Desenvolvedor Front-end com experiência em React, TypeScript e Tailwind CSS, focado na criação de interfaces modernas e responsivas. Experiência prática com bibliotecas como Styled-components, Zod e React Hook Form, além de conhecimento em Figma e Git. 
 
 ---
 
